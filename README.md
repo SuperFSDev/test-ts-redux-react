@@ -3,13 +3,10 @@
 ### What are the main skills?
 
 ⚽ React.js <br/>
-⚾ Redux + Saga <br/>
+⚾ Redux <br/>
 🥎 Tailwind CSS <br/>
 🏀 Typescript <br/>
 🏐 Vite <br/>
-
-### Problem
-https://github.com/innoloft/Frontend-Application
 
 ### Solution
 
