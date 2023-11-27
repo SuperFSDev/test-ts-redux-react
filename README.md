@@ -10,6 +10,10 @@
 
 ### Solution
 
+🛠 Node version
+
+v16.13.0
+
 🛠 How to run in local
 
 ```
